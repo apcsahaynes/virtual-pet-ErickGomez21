@@ -1,4 +1,4 @@
-public class VirtualPet4 {
+public class VirtualPet {
     private String name;
     private int energy;
     private int weight;
@@ -7,7 +7,7 @@ public class VirtualPet4 {
     private int ageYears;
     
     
-    public VirtualPet4(String name) {
+    public VirtualPet(String name) {
       this.name = name;
       this.energy = 0;
       this.weight = 5;
